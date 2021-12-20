@@ -93,7 +93,23 @@ homebrew_cask_apps:
   
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: []
+mas_installed_apps: 
+  - { id: 1568262835, name: "Super Agent" }
+  - { id: 1365531024, name: "1Blocker" }
+  - { id: 497799835, name: "Xcode" }
+  - { id: 409183694, name: "Keynote" }
+  - { id: 1469995354, name: "Broadcasts" }
+  - { id: 1474335294, name: "GoodLinks" }
+  - { id: 1295203466, name: "Microsoft Remote Desktop" }
+  - { id: 408981434, name: "iMovie" }
+  - { id: 568494494, name: "Pocket" }
+  - { id: 419330170, name: "Moom" }
+  - { id: 409201541, name: "Pages" }
+  - { id: 1529448980, name: "Reeder" }
+  - { id: 1518425043, name: "Boop" }
+  - { id: 409203825, name: "Numbers" }
+  - { id: 1475387142, name: "Tailscale" }
+
 mas_email: ""
 mas_password: ""
 
