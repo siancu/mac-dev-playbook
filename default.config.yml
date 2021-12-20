@@ -35,17 +35,28 @@ dotfiles_files:
   - .vimrc
 
 homebrew_installed_packages:
+  - cowsay
   - github/gh/gh
+  - git
   - go
   - httpie
-  - sqlite
-  - nmap
-  - ssh-copy-id
-  - cowsay
-  - readline
-  - openssl
-  - wget
+  - jbang
   - mas
+  - nmap
+  - openssl
+  - pandoc
+  - pipx
+  - pspg
+  - pyenv
+  - readline
+  - ripgrep
+  - shellcheck
+  - sqlite
+  - ssh-copy-id
+  - starship
+  - telnet
+  - tree
+  - wget
 
 homebrew_taps:
   - homebrew/core
