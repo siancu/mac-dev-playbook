@@ -72,8 +72,10 @@ homebrew_cask_apps:
   - discord
   - docker
   - expressvpn
+  - firefox
   - google-chrome
   - iina
+  - intellij-idea
   - istat-menus
   - maccy
   - menuwhere
@@ -91,6 +93,21 @@ homebrew_cask_apps:
   - visual-studio-code
   - webstorm
   
+# hazel
+# iterm
+# logi bolt
+# logi options
+# logitech g hub
+# mimestream
+# onedrive
+# postgress.app
+# soulver 3
+# synology drive client
+# synology assistant
+# tunnelblick
+# tweetbot
+# whatsapp
+
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: 
