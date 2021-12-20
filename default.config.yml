@@ -45,6 +45,7 @@ homebrew_installed_packages:
   - readline
   - openssl
   - wget
+  - mas
 
 homebrew_taps:
   - homebrew/core
@@ -52,7 +53,33 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - 1password
+  - a-better-finder-rename
+  - alfred
+  - bartender
+  - dash
+  - discord
+  - docker
+  - expressvpn
+  - google-chrome
+  - iina
+  - istat-menus
+  - maccy
+  - menuwhere
+  - microsoft-teams
+  - multipass
+  - notion
+  - paletro
+  - parallels
+  - pycharm
+  - slack
+  - spotify
+  - sublime-text
+  - todoist
   - transmit
+  - visual-studio-code
+  - webstorm
+  
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
