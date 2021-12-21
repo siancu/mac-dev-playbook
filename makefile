@@ -1,8 +1,11 @@
-brew:
-	ansible-playbook main.yml --ask-become-pass --tags homebrew
+homebrew:
+	ansible-playbook main.yml --tags homebrew
 
 mas:
-	ansible-playbook main.yml --ask-become-pass --tags mas
+	ansible-playbook main.yml --tags mas
 
 sublime:
-	ansible-playbook main.yml --ask-become-pass --tags sublime-text
+	ansible-playbook main.yml --tags sublime-text
+
+sudoers:
+	ansible-playbook main.yml --tags sudoers
