@@ -87,6 +87,7 @@ homebrew_cask_apps:
   - pycharm
   - slack
   - spotify
+  - sublime-merge
   - sublime-text
   - todoist
   - transmit
