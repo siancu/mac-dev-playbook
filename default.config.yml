@@ -93,7 +93,7 @@ homebrew_cask_apps:
   - transmit
   - visual-studio-code
   - webstorm
-  
+
 # hazel
 # iterm
 # logi bolt
@@ -111,7 +111,7 @@ homebrew_cask_apps:
 
 
 # See `geerlingguy.mas` role documentation for usage instructions.
-mas_installed_apps: 
+mas_installed_apps:
   - { id: 1568262835, name: "Super Agent" }
   - { id: 1365531024, name: "1Blocker" }
   - { id: 497799835, name: "Xcode" }
@@ -164,7 +164,6 @@ sublime_package_control:
   - "GitHub Flavored Markdown Preview"
   - "Jinja2"
   - "Package Control"
-  - "PHP-Twig"
   - "Pretty JSON"
   - "SublimeLinter"
   - "SublimeLinter-contrib-yamllint"
