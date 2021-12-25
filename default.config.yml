@@ -65,6 +65,7 @@ homebrew_taps:
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - 1password
+  - 1password-cli
   - a-better-finder-rename
   - alfred
   - bartender
@@ -80,6 +81,7 @@ homebrew_cask_apps:
   - maccy
   - menuwhere
   - microsoft-teams
+  - mimestream
   - multipass
   - notion
   - paletro
@@ -97,9 +99,6 @@ homebrew_cask_apps:
 
 # hazel
 # iterm
-# logi bolt
-# logi options
-# logitech g hub
 # mimestream
 # onedrive
 # postgress.app
