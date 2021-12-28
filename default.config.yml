@@ -78,6 +78,7 @@ homebrew_cask_apps:
   - iina
   - intellij-idea
   - istat-menus
+  - iterm2
   - maccy
   - menuwhere
   - microsoft-teams
@@ -99,7 +100,6 @@ homebrew_cask_apps:
 
 # hazel
 # iterm
-# mimestream
 # onedrive
 # postgress.app
 # synology drive client
