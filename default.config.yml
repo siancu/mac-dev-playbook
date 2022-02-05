@@ -43,6 +43,7 @@ homebrew_installed_packages:
   - iperf3
   - jbang
   - jq
+  - mackup
   - mas
   - nmap
   - openssl
@@ -59,6 +60,7 @@ homebrew_installed_packages:
   - telnet
   - tree
   - wget
+  - zellij
 
 homebrew_taps:
   - homebrew/core
