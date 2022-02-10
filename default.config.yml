@@ -58,9 +58,9 @@ homebrew_installed_packages:
   - ssh-copy-id
   - starship
   - telnet
+  - tmux
   - tree
   - wget
-  - zellij
 
 homebrew_taps:
   - homebrew/core
