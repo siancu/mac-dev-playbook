@@ -45,6 +45,7 @@ homebrew_installed_packages:
   - jq
   - mackup
   - mas
+  - neovim
   - nmap
   - openssl
   - pandoc
