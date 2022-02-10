@@ -120,7 +120,6 @@ mas_installed_apps:
   - { id: 497799835, name: "Xcode" }
   - { id: 409183694, name: "Keynote" }
   - { id: 1469995354, name: "Broadcasts" }
-  - { id: 1474335294, name: "GoodLinks" }
   - { id: 1295203466, name: "Microsoft Remote Desktop" }
   - { id: 408981434, name: "iMovie" }
   - { id: 568494494, name: "Pocket" }
